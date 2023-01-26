@@ -1,2 +1,2 @@
 # glassdoor-assignment
-Glassdoor Assignment for Platform Engineering Intern.
+Glassdoor Assignment for Platform Engineering Intern
